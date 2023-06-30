@@ -1,0 +1,5 @@
+package ar.edu.unlam.dominio;
+
+public enum Menu {
+	REGISTRAR_USUARIO, VER_ESTADISTICAS, LOGIN_USUARIO, CAMBIAR_CONTRASENIA, SALIR
+}
